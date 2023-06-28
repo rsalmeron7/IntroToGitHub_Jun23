@@ -1,2 +1,2 @@
-# IntroToGitHub_Jun28
+# IntroToGitHub_Jun23
 Workshop example repository
